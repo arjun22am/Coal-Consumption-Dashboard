@@ -8,7 +8,7 @@ This repository contains an interactive Tableau dashboard that analyzes coal con
 
 - **`Indian_Coal_Consumption_Dashboard.twbx`** — Tableau Packaged Workbook (full dashboard)
   
- **`Coal_Dashboard_Image.pdf`** — Snapshot of the dashboard for quick preview
+- **`Coal_Dashboard_Image.pdf`** — Snapshot of the dashboard for quick preview
  
 - **`Coal_Consumption_Dashboard_Documentation.docx`** — Full project documentation explaining data sources, analysis, visualizations, and key insights
 
@@ -55,8 +55,6 @@ The Tableau dashboard includes:
 ## 📊 Data Sources
 
 | Coal-Related Data | Weather Data |
-
-| ----------------- | ------------- |
 
 | **Source:** [National Power Portal - Monthly Coal Reports](https://npp.gov.in/) | **Source:** [Meteostat API via RapidAPI](https://rapidapi.com/) |
 
