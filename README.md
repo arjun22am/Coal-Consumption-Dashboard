@@ -88,8 +88,7 @@ For detailed methodology, charts explanation, and dataset description, see: **`C
 ## 📧 Contact
 
 **Author:** *[Arjun Mhatre]*  
-**Email:** *[Your Email]*  
-**LinkedIn:** *[Your LinkedIn URL]*
+**Email:** *[arjunmhatre2002am@gmail.coml]*  
 
 ---
 
